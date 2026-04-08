@@ -1,6 +1,6 @@
 # git_study
 
-A new Flutter project.
+A new Flutter project for the `iss53` branch conflict demo.
 
 ## Getting Started
 
