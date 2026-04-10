@@ -1,6 +1,6 @@
-# git_study
+# MasterFabric-Trainee
 
-A new Flutter project for the `main` branch conflict demo.
+A Flutter learning project for the MasterFabric Trainee series.
 
 ## Getting Started
 

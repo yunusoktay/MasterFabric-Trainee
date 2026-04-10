@@ -1,4 +1,4 @@
-package com.example.git_study
+package com.example.masterfabrictrainee
 
 import io.flutter.embedding.android.FlutterActivity
 
