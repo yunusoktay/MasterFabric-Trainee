@@ -23,6 +23,32 @@ Run Day 1 from the repository root with:
 dart run dart/day_001.dart
 ```
 
+## Day 4
+
+Day 4 lives in `dart/day_004.dart` and includes:
+
+- FizzBuzz
+- Simple number guessing game
+
+Run Day 4 from the repository root with:
+
+```bash
+dart run dart/day_004.dart
+```
+
+## Day 5
+
+Day 5 lives in `dart/day_005.dart` and includes:
+
+- Simple command-line calculator
+- Error handling for invalid input and division by zero
+
+Run Day 5 from the repository root with:
+
+```bash
+dart run dart/day_005.dart
+```
+
 Run the Flutter app with:
 
 ```bash
