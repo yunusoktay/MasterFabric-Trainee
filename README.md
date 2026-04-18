@@ -49,6 +49,19 @@ Run Day 5 from the repository root with:
 dart run dart/day_005.dart
 ```
 
+## Day 6
+
+Day 6 lives in `dart/day_006.dart` and includes:
+
+- Introduction to classes and objects
+- Properties, methods, and constructors
+
+Run Day 6 from the repository root with:
+
+```bash
+dart run dart/day_006.dart
+```
+
 Run the Flutter app with:
 
 ```bash
