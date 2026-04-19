@@ -90,6 +90,20 @@ Run Day 8 from the repository root with:
 dart run dart/day_008.dart
 ```
 
+## Day 9
+
+Day 9 lives in `dart/day_009.dart` and includes:
+
+- Mixins with the `mixin` keyword
+- Applying mixins with `with`
+- Sharing behavior between unrelated classes
+
+Run Day 9 from the repository root with:
+
+```bash
+dart run dart/day_009.dart
+```
+
 Run the Flutter app with:
 
 ```bash
