@@ -62,6 +62,20 @@ Run Day 6 from the repository root with:
 dart run dart/day_006.dart
 ```
 
+## Day 7
+
+Day 7 lives in `dart/day_007.dart` and includes:
+
+- Inheritance with `extends`
+- `super` keyword for parent constructor and methods
+- Method overriding with `@override`
+
+Run Day 7 from the repository root with:
+
+```bash
+dart run dart/day_007.dart
+```
+
 Run the Flutter app with:
 
 ```bash
