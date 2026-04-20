@@ -104,6 +104,20 @@ Run Day 9 from the repository root with:
 dart run dart/day_009.dart
 ```
 
+## Day 10
+
+Day 10 lives in `dart/day_010.dart` and includes:
+
+- Working with `List` (create, add, remove, access, iterate)
+- Working with `Map` (create, add, remove, access, iterate)
+- Iteration with `for-in` and `forEach`
+
+Run Day 10 from the repository root with:
+
+```bash
+dart run dart/day_010.dart
+```
+
 Run the Flutter app with:
 
 ```bash
